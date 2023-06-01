@@ -1,9 +1,7 @@
 import "./App.css"
 function App() {
   return (
-    <div className="App">
-        Subscribe Zainkeeps code
-    </div>
+    <div className="App">Maleek Keeps Code!</div>
   );
 }
 
