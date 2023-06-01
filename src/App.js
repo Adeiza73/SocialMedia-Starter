@@ -1,7 +1,7 @@
 import "./App.css"
 function App() {
   return (
-    <div className="App"> maleek</div>
+    <div className="App">male</div>
   );
 }
 
